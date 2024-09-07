@@ -12,9 +12,10 @@ const Navbar = () => {
                 <a href="#skill" className='hover:text-gray-400'>Skills</a>
                 <a href="#project" className='hover:text-gray-400'>Projects</a>
                 <a href="#contact" className='hover:text-gray-400'>Contact</a>
+                <a href="#education" className='hover:text-gray-400'>Education</a>
             </div>
             <button className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline
-            transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Connect Me</button>
+            transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Contact Me</button>
         </div>
     </nav>
   )

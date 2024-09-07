@@ -14,15 +14,17 @@ const About = () => {
           />
           <div className="flex-1">
             <p className="text-lg mb-8">
-              I am a passionate full-stack developer with a focus on building
-              modern and responsive web applications. With a strong foundation
-              in both frontend and backend technologies, I strive to create
-              seamless and efficient user experiences.
+              I am a passionate full-stack SAP S/4HANA developer with strong knowledge in both frontend and backend technologies.
+              I have also put in the training on the new AI additions to the SAP world. I strive to keep up with the latest technologies 
+              and to achieve expertise in the field. I have a strong foundation in programming and problem-solving, 
+              and I am always looking for opportunities to apply my skills to real-world problems. Combining this with my knowledge of JavaScript, React,
+              Java, and Node.js, I am confident in my ability to deliver high-quality software solutions.
+
             </p>
             <div className="space-y-4">
               <div className="flex items-center">
-                <label htmlFor="htmlandcss" className="w-2/12">
-                  HTML & CSS
+                <label htmlFor="ABAP" className="w-2/12">
+             ABAP
                 </label>
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div
@@ -32,8 +34,8 @@ const About = () => {
                 </div>
               </div>
               <div className="flex items-center">
-                <label htmlFor="htmlandcss" className="w-2/12">
-                  React JS
+                <label htmlFor="ABAP" className="w-2/12">
+                  REACT and Node.js
                 </label>
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div
@@ -44,7 +46,7 @@ const About = () => {
               </div>
               <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12">
-                  Node JS
+                  JAVA
                 </label>
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div
@@ -69,13 +71,7 @@ const About = () => {
                     </h3>
                     <p>Projects Completed</p>
                 </div>
-                <div>
-                    <h3 className="text-2xl font-bold text-transparent bg-clip-text 
-                bg-gradient-to-r from-green-400 to-blue-500">
-                        10+
-                    </h3>
-                    <p>Happy Clients</p>
-                </div>
+                
             </div>
           </div>
         </div>
