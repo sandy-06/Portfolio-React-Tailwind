@@ -28,6 +28,11 @@ const skills = [
   },
   {
     id: 6,
+    title: "AI & ML",
+    description: "Promote your business with our digital marketing team.",
+  },
+  {
+    id: 7,
     title: "Soft skills",
     description: "Promote your business with our digital marketing team.",
   },
