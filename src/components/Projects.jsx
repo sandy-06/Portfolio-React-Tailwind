@@ -1,28 +1,28 @@
 import React from "react";
-import employeeMSImage from "../assets/employee-ms.png";
-import bookMSImage from "../assets/admin-dashboard.png";
-
+import homepageImage from "../assets/homepage.png";
+import babyaidImage from "../assets/babyaid.png";
+import robofriendsImage from "../assets/robofriends.png";
 const projects = [
   {
     id: 1,
-    name: "Employee MS",
-    technologies: "MERN Stack",
-    image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    name: "react-project-1",
+    technologies: "Javascript and React",
+    image: homepageImage,
+    github: "https://github.com/sandy-06",
   },
   {
     id: 2,
-    name: "Blog App",
-    technologies: "MERN Stack",
-    image: bookMSImage,
-    github: "https://github.com/YouafKhan1",
+    name: "Social Media App",
+    technologies: "JavaScript",
+    image: babyaidImage,
+    github: "https://github.com/sandy-06",
   },
   {
     id: 3,
-    name: "Book MS",
-    technologies: "MERN Stack",
-    image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    name: "RoboFriends",
+    technologies: "JavaScript and React",
+    image: robofriendsImage,
+    github: "https://github.com/sandy-06",
   },
 ];
 
