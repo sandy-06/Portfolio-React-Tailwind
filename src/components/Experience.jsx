@@ -29,17 +29,21 @@ const experience = [
   {
     id: 5,
     title: "VP of Construction company",
-    description: "Writing content for your business and companies.",
+    description:<p> "Sold the projects from custom homes to commercial greenhouses to fire reconstruction.Handled the office, permits,
+       cad design, collecting payments and final close of projects"</p>,
   },
   {
     id: 6,
     title: "Mechanical Engineer",
-    description: "Promote your business with our digital marketing team.",
+    description: <p>" Project engineer for the Air Force at Boeing Military Division. Oversaw and reported on 
+    the progress of the project. Part of team qualifying new bids. Engineer at Boeing on Military projects 
+    with Secret Clearance. "</p>,
+   
   },
 ];
 const Experience = () => {
-  return (
-    <div className="bg-black text-white py-20" id="service">
+  return(              
+  <div className="bg-gradient-to-r from-green-400 to-blue-500 text-white py-20" id="experience">
       <div className="container mx-auto px-8 md:px-16 lg:px-24">
         <h2 className="text-4xl font-bold text-center mb-12">My Experience</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
