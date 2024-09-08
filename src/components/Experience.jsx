@@ -4,22 +4,27 @@ const experience = [
   {
     id: 1,
     title: "Small Business Owner",
-    description: "Creating visually appealing and user-friendly web designs.",
+    description: <p>"Consulting company based in the USA, specializing in web development and design."
+     "Started in 2010, specializing in Growing and training sales teams then moved to web development and design."</p>
   },
   {
     id: 2,
     title: "SAP ABAP Developer",
-    description: "Building responsive and interactive user interfaces.",
+    description: <p>"Worked at Infosys as an SAP ABAP developer consultant.Worked on project in the Utilities industry in both 
+      ABAP and Plant Maintenance."</p>,
   },
   {
     id: 3,
     title: "Division Manager",
-    description: "Developing robust server-side logic and databases.",
+    description: <p>"Working with same Management for 30 years, developed, trained the top team in the country.
+      Started as a sales person and grew to the Number 1 leader in the country. "</p>
   },
   {
     id: 4,
     title: "Sales Engineer",
-    description: "Combining both frontend and backend development skills.",
+    description:<p> "Sales engineer for a small consulting company. With lead engineer developed contracts for design build automation
+      projects for manufacturing lines that gave a 7 year backlog of work. Developed and built a robotic endofector for cold working holes
+      in airplanes for production purposes and presented at international conference of airline manufactures."</p>
   },
   {
     id: 5,
